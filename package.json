@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/infobot-pro/infobot-yandex-stt#readme",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "request": "^2.88.0",
     "grpc": "^1.23.1",
     "@grpc/proto-loader": "^0.5.1"
